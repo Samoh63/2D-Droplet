@@ -1,0 +1,12 @@
+201 61    ! lx,ly
+2000000   ! t_max
+10        ! Nwri
+1.0 1.0   ! rho_h, rho_l
+1  1      ! tau_h, tau_l
+4.0       ! interface thickness
+0.0002     ! sigma
+20        ! RR radius of a drop
+0.01d0     ! UU
+0.1d0     ! Mob
+1         ! 1 if there is a solid boundary
+0.1       ! constant rh for upper and lower walls 
